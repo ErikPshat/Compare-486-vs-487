@@ -1,2 +1,1 @@
-# Compare-486-vs-487
-PS3UPDAT.PUP
+# Compare 486 vs 487 changes PS3UPDAT.PUP
